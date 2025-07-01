@@ -1,2 +1,2 @@
-# 💻 Level 1 C Programming Challenges – Input & Output
+- Level 1 C Programming Challenges – Input & Output
 
